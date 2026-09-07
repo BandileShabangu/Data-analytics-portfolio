@@ -6,7 +6,7 @@ I am a Junior Data Analyst passionate about transforming raw data into meaningfu
 
 I enjoy working across the data analytics process — from cleaning and exploring data to identifying patterns, uncovering insights, and communicating findings through clear visualizations and dashboards.
 
-Currently, I am expanding my analytical toolkit through the **Quantium Data Analytics Virtual Experience**, where I am developing practical experience using **R for data cleaning, exploration, analysis, and visualization**.
+Completed job stimulation  **Quantium Data Analytics Virtual Experience**, where I am developed practical experience using **R for data cleaning, exploration, analysis, and visualization**.
 
 ---
 
